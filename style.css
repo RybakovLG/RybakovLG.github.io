@@ -241,7 +241,6 @@ li {
 	color: var(--text-sec-color);
 	line-height: 26px;
 	margin: 10px 0;
-	padding-left: 2em;
 }
 
 .promo-block__link {
@@ -411,7 +410,6 @@ li {
 }
 
 .quote-card__text {
-	padding-left: 2em;
 	font-style: italic;
 	margin: 0 0 25px;
 }
@@ -847,20 +845,6 @@ li {
 	border-top: 1px solid #5D6544;
 	border-bottom: 1px solid #5D6544;
 }
-
-.nav-block {
-	/* flex: 1 1 105px; */
-	/* align-content: flex-start; */
-	/* min-width: 100px; */
-}
-
-.social-block {
-	/* flex: 0 1 320px; */
-}
-
-/* .nav-block:nth-last-child(2) {
-	margin-right: 10px;
-} */
 
 .nav-block__list {
 	margin-top: 30px;
